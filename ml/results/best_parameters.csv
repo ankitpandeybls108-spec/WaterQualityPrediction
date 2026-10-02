@@ -1,0 +1,5 @@
+Model,Best Parameters
+Logistic Regression,{'classifier__C': 0.1}
+Decision Tree,"{'classifier__max_depth': None, 'classifier__min_samples_leaf': 4, 'classifier__min_samples_split': 10}"
+Random Forest,"{'classifier__max_depth': None, 'classifier__min_samples_leaf': 1, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 100}"
+SVM,"{'classifier__C': 10, 'classifier__gamma': 'scale', 'classifier__kernel': 'rbf'}"
